@@ -29,7 +29,7 @@ python time.py
 - Better UI
 
 ## Author
-Suhas Sasane
+Sanika Sasane
 
 
 ## 📸 Project Screenshots
