@@ -50,5 +50,4 @@ Sanika Sasane
 
 
 
-### 📈 Visual Progress
-![Visual Progress](screenshots/veiw%20visual%20progress.png)
+
