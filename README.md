@@ -49,8 +49,6 @@ Sanika Sasane
 
 
 
-### 📊 Study Tracker
-![Study Tracker](screenshots/menu%20of%20study%20tracker.png)
 
 ### 📈 Visual Progress
 ![Visual Progress](screenshots/veiw%20visual%20progress.png)
